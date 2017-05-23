@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/zhiwei/.android/build-cache/274605582324620f059e7ab35e73f54387ed60b3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/zhiwei/AndroidStudioProjects/jobs/guided/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c1c665b406076d9f0c917bad5d5332d992381aae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhiwei/.android/build-cache/21fc41270f65cd798a2b19ff692ce9ad582812cb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/zhiwei/AndroidStudioProjects/jobs/guided/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_73912e26fa32c88c8171c9e1b092fc106727d621/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhiwei/.android/build-cache/6817ad68c056749ef8edbdb70dd03a580cc0cdd3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/zhiwei/AndroidStudioProjects/jobs/guided/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dab5af1b1ae971a6e2b03aad23c4694fc5ab4503/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhiwei/.android/build-cache/a506024e069f86e3f8f29a7f5a22bfb7a9fb1e49/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/zhiwei/AndroidStudioProjects/jobs/guided/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6a99104122a67752958ef174caa62d1d17c0f79a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhiwei/AndroidStudioProjects/jobs/guided/android/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="af75093f6fcb5eaaf7d2afc6ff24dd2032a1f577">
+        <dex dex="/Users/zhiwei/AndroidStudioProjects/jobs/guided/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_fa8fe09931e7e92cc89e9439d4db9449e8f17074/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhiwei/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/zhiwei/AndroidStudioProjects/jobs/guided/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_7fe3f8ad800fe764e2d62e09a368ab67ccf19710/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhiwei/.android/build-cache/4e66de9afc262d018d8d613ac6473a4175d91228/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/zhiwei/AndroidStudioProjects/jobs/guided/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d55e4856f7cee9574a1cbe29a9690e22a5357457/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhiwei/.android/build-cache/f6791066ea41054e42ef300cb9cbd0bfb6a0ca20/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/zhiwei/AndroidStudioProjects/jobs/guided/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_83fc0a60666d92bcffe0d3ae37f724ad54c2d6b7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhiwei/.android/build-cache/59cb2add43697ac7e69e12622ea961cc98275dde/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/zhiwei/AndroidStudioProjects/jobs/guided/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1294fc4775618b7ef12983f2a60e1be72b1705b6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhiwei/.android/build-cache/804ef84f9091f459044c46985e6bf5cfaec10f28/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/zhiwei/AndroidStudioProjects/jobs/guided/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_21d39c518ac6ae8853852566ee058cafd3991dfa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhiwei/.android/build-cache/8d4f69d9f496dd3ceb11fdc755a537b66cc79a07/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/zhiwei/AndroidStudioProjects/jobs/guided/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e93d17d66f2101769d656d94acab90a3d89d74f9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhiwei/AndroidStudioProjects/jobs/guided/android/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/Users/zhiwei/AndroidStudioProjects/jobs/guided/android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_62ba4a1f3d6677d56fe349f8e5616ab3393bfe29/classes.dex" />
+    </item>
+
+</items>

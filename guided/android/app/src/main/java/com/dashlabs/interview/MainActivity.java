@@ -69,7 +69,7 @@ public class MainActivity extends AppCompatActivity {
 
         // Show in ListView
         ListAdapter adapter = new SimpleAdapter(MainActivity.this, title_overview, R.layout.list_item,
-                new String[]{"titel", "overview"}, new int[]{R.id.title, R.id.overview});
+                new String[]{"title", "overview"}, new int[]{R.id.title, R.id.overview});
         listView.setAdapter(adapter);
     }
 }
